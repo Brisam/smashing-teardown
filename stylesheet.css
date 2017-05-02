@@ -1,0 +1,59 @@
+body{
+  background-color: #D8DFE0;
+  margin-bottom: 0;
+}
+
+#logo{
+  height: 75px;
+  width: 220px;
+  background-color: #AEB1B2;
+  position: relative;
+  top: -10px;
+  left: 1%;
+  margin: 0;
+  z-index: 5;
+}
+
+#main{
+  height: 1500px;
+  width: 60%;
+  background-color: #AEB1B2;
+  position: relative;
+  float: left;
+  top: -10px;
+  left: 1%;
+  border-top-right-radius: 15px;
+  margin: 0;
+  z-index: 5;
+}
+
+#search{
+  background-color: #B8BEBF;
+  height: 45px;
+  width: 35%;
+  float: right;
+  margin-right: 1%;
+  border-radius: 10px;
+  border: .25px solid #B8BEBF;
+}
+
+.left{
+  height: inherit;
+  width: 80%;
+  background-color: #BAC1C2;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+
+#news{
+  height: 225px;
+  width: 500px;
+  background-color: #E0E8E9;
+  float: right;
+  position: relative;
+  right: 1%;
+  bottom: 1250px;
+  border-radius: 10px;
+  border: .25px solid #B8BEBF;
+}
